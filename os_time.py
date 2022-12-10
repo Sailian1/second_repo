@@ -2,7 +2,7 @@ import os
 import time
 
 print(os.getcwd())
-os.chdir('C:\\Users\\vdi-student\\Desktop\\nauka\\second_repo\\second_repo')
+os.chdir('C:\\Users\\vdi-student\\Desktop\\nauka\\first_repo')
 
 
 os.mkdir('new_folder')
